@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <a href="https://fluffle.cc/rinkomania"><img src="https://readme-typing-svg.demolab.com?font=Slackey&size=35&duration=1500&pause=1000000000&color=F78B35&center=true&width=435&lines=about+me" alt="Typing SVG" /></a> 
+    <a href="https://fluffle.cc/rinkomania"><img src="https://readme-typing-svg.demolab.com?font=Slackey&size=35&duration=1500&pause=1000000000&color=F77135FF&center=true&width=435&lines=about+me" alt="Typing SVG" /></a> 
   &nbsp;&nbsp;
 
 </p>
