@@ -7,9 +7,9 @@
 
 
 <p align="center">
-    <a href="https://fluffle.cc/rinkomania"><img src="https://readme-typing-svg.demolab.com?font=Slackey&duration=0000.1&pause=1000000000&color=F71F1F&center=true&width=435&lines=about+me" alt="abt me" /></a> 
+    <a href="https://fluffle.cc/rinkomania"><img src="https://readme-typing-svg.demolab.com?font=Slackey&duration=0000.1&pause=1000000000&color=ff5429&center=true&width=435&lines=about+me" alt="abt me" /></a> 
   &nbsp;&nbsp;
-    <a href="https://rinkomania.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Slackey&duration=0000.1&pause=1000000000&color=F7A441&center=true&width=435&lines=%E6%96%B0book" alt="atabook" /></a> 
+
 </p>
 
 <p align="center">
