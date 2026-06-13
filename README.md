@@ -6,11 +6,6 @@
 <p align="center"> <img src="https://i.ibb.co/KxzhSGw6/bgy-divider.png" width="400" height="20" alt="divider"/>
 
 
-<p align="center">
-    <a href="https://fluffle.cc/rinkomania"><img src="https://readme-typing-svg.demolab.com?font=Slackey&size=35&duration=1500&pause=1000000000&color=ff7824&center=true&width=435&lines=about+me" alt="Typing SVG" /></a> 
-  &nbsp;&nbsp;
-
-</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
