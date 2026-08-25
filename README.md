@@ -5,5 +5,9 @@
 
 <p align="center"> <img src="https://i.ibb.co/KxzhSGw6/bgy-divider.png" width="400" height="20" alt="divider"/>
 
+<div align="center">
+    <a href="https://rentry.co/spideywill">my rentry</a> 
+  &nbsp;&nbsp;
+</div>
 
 
