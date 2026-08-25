@@ -10,4 +10,7 @@
   &nbsp;&nbsp;
 </div>
 
-
+<details>
+<summary> </summary>
+  <img src="https://file.garden/agiJ73V3JAahZNUJ/weshouldalljustkillourselves.jpg" width="250"/>
+</details>
