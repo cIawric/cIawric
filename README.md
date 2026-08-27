@@ -8,9 +8,15 @@
 <div align="center">
     <a href="https://rentry.co/spideywill">my rentry</a> 
   &nbsp;&nbsp;
+    <a href="https://www.secretmessage.link/secret/6a903a1331faa/">secret messages</a> 
 </div>
 
 <details>
-<summary> </summary>
+<summary>messages i've gotten</summary>
+  I have none so far so feel free to send me some 💔💔💔
+</details>
+
+<details>
+<summary>img dump</summary>
   <img src="https://file.garden/agiJ73V3JAahZNUJ/weshouldalljustkillourselves.jpg" width="250"/>
 </details>
