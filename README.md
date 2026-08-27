@@ -6,13 +6,21 @@
 <p align="center"> <img src="https://i.ibb.co/KxzhSGw6/bgy-divider.png" width="400" height="20" alt="divider"/>
 
 <div align="center">
-    <a href="https://rentry.co/spideywill">my rentry</a> 
+    <a href="https://rentry.co/spideywill">my really cool rentry that you should read</a> 
   &nbsp;&nbsp;
 <br>
     <a href="https://www.secretmessage.link/secret/6a903a1331faa/">send me secret messages</a>
   &nbsp;&nbsp;
     <a href="https://drawme.share-on.me/share">send me secret drawings</a>
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rd3ay3sy44lnsdfshvupbb3ima&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ffbb00&bar_color_cover=false">
+  </a>
+</p>
 
 <br>
 
