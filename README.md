@@ -11,6 +11,14 @@
     <a href="https://www.secretmessage.link/secret/6a903a1331faa/">secret messages</a> 
 </div>
 
+<br>
+
+<div align="center">
+    <p>strawpage soon maybe 👀</p>
+</div>
+
+<br>
+
 <details>
 <summary>messages i've gotten</summary>
   I have none so far so feel free to send me some 💔💔💔
