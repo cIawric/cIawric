@@ -8,7 +8,10 @@
 <div align="center">
     <a href="https://rentry.co/spideywill">my rentry</a> 
   &nbsp;&nbsp;
-    <a href="https://www.secretmessage.link/secret/6a903a1331faa/">secret messages</a> 
+<br>
+    <a href="https://www.secretmessage.link/secret/6a903a1331faa/">send me secret messages</a>
+  &nbsp;&nbsp;
+    <a href="https://drawme.share-on.me/share">send me secret drawings</a>
 </div>
 
 <br>
@@ -22,6 +25,11 @@
 <details>
 <summary>messages i've gotten</summary>
   I have none so far so feel free to send me some 💔💔💔
+</details>
+
+<details>
+<summary>drawings i've gotten</summary>
+  I have none so far so feel free to send me some 💔💔💔 pt.2
 </details>
 
 <details>
